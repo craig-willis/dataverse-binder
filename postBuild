@@ -1,4 +1,0 @@
-#!/bin/bash
-
-[[ ! -d "$HOME/.jupyter/custom" ]] && mkdir -p $HOME/.jupyter/custom
-cp custom.js $HOME/.jupyter/custom/custom.js

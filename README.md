@@ -11,4 +11,5 @@ Motivating case:
 * This opens the Data Explorer external tool
 
 Now, open in it in Binder using this repo: [thalpbblackaff.tab](https://hub.mybinder.org/user/xarthisius-dataverse-binder-8milmml7/notebooks/dataverse.ipynb?fileId=2865473&siteUrl=https://dataverse.harvard.edu)
+https://hub.mybinder.org/user/xarthisius-dataverse-binder-8milmml7/notebooks/dataverse.ipynb
 
